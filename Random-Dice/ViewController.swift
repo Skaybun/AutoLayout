@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Random-Dice
 //
-//  Created by Ali KINU on 19.04.2023.
+//  Created by Ali KINU on 19.04.2022.
 //
 
 import UIKit
